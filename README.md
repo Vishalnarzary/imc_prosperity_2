@@ -1,3 +1,5 @@
+Hi can you share your code in this email address vnarzary17@gmail.com , ill also share mine which has good strategy
+
 ## IMC Prosperity 2
 The 15 days of simulation of Prosperity are divided into 5 rounds. Each round lasts 72 hours. At the end of every round - before the timer runs out - all teams will have to submit their algorithmic and manual trades to be processed. The algorithms will then participate in a full day of trading against the Prosperity trading bots.
 ## Round 1
